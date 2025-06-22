@@ -20,13 +20,13 @@ O objetivo faz parte de um desafio técnico, onde é obrigatório manter a aplic
 ---
 
 ## 📦 Estrutura de Pastas
-├── .venv/ # Ambiente virtual (local)
-├── tests/ # Pasta de testes
-├── main.ipynb # Notebook principal da aplicação
-├── requirements.txt # Dependências da aplicação
-├── Dockerfile # Dockerfile para build da aplicação
-├── docker-compose.yml # Orquestração com Docker Compose
-└── README.md # Este arquivo
+─ .venv/ # Ambiente virtual (local)
+─ tests/ # Pasta de testes
+─ main.ipynb # Notebook principal da aplicação
+─ requirements.txt # Dependências da aplicação
+─ Dockerfile # Dockerfile para build da aplicação
+─ docker-compose.yml # Orquestração com Docker Compose
+─ README.md # Este arquivo
 
 
 ---

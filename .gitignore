@@ -1,0 +1,5 @@
+modelo_regressao.pkl
+instance
+__pycache__
+.venv
+.pytest_cache

@@ -1,4 +1,4 @@
-# IPM-IA: API Flask com Jupyter Notebook e SQLite
+# API Flask com Jupyter Notebook e SQLite
 
 Este projeto é uma API REST desenvolvida com Flask, utilizando banco de dados SQLite e executada via Jupyter Notebook.
 O ambiente de execução está containerizado com Docker, garantindo facilidade na configuração, execução e portabilidade da aplicação.
